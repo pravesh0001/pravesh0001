@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Pravesh!</h1>
 
-👩🏻‍💻 Passionate developer experienced in Advanced Java, AI/ML.<br/>
+👩🏻‍💻 Passionate developer experienced in Advanced Java,Python, AI/ML.<br/>
 👩🏻‍🎓 Currently pursuing BTECH (Hons) in AIML from Chandigarh University, Gharuan<br/>
 🔬 Published 2 research papers: Led development of advanced algorithms for Advancements in Space Debris Mitigation:, resulting in a publication in the Institute of Electrical and Electronics Engineers(IEEE).
   
